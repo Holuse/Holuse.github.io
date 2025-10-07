@@ -47,8 +47,9 @@
     "tr": "pdf/tr/MyCV.pdf",
     "de": "pdf/de/MyCV.pdf"
   },
-  "header_contact_h1": "Kontaktiere mich!",
+  "header_contact_h1": "Kontakt",
   "email_contact": "Schreib mir eine E-Mail an ",
   "linkedin_contact": "Besuche mein ",
   "github_contact": "Schau dir mein "
+
 }

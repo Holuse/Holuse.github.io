@@ -219,7 +219,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 90px;
+    height: 110px;
     background-color: #d8dee9;
     top: 0;
     left: 0;
@@ -281,4 +281,5 @@ p, h1, h2 {
     word-wrap: break-word;
 }
 }
+
 

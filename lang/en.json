@@ -1,0 +1,54 @@
+{
+  "welcome": "Welcome to my webpage",
+  "about": "About me",
+  "projects": "Projects",
+  "cv": "My CV",
+  "contact": "Contact me",
+  "about_me_h1":"About Me",
+  "about_me_p": [
+    "My name is Mehmet, and I am 19 years old. I am currently in my first year at the Turkish-German University in Istanbul.",
+    "I can speak English, German, and Turkish fluently. I am actively learning and working with various programming languages.",
+    "I am comfortable with C, C++, HTML/CSS, JavaScript, and Python. However, I should clarify that I use JavaScript mainly for web development.",
+    "This doesn’t mean that I don’t know the language; since I work with multiple languages, I don’t have time to create even basic projects in all of them.",
+    "I am also looking for opportunities in my field. I really enjoy learning new programming languages as well as natural languages, and I consider myself a quick learner.",
+    "Of course, being comfortable with a language and using it effectively are two different things. The first step to mastering a language is learning it from scratch and practicing through small projects or actively applying it in your field."
+  ],
+  "my_interest_h1":"My interest & hobbies",
+  "my_interest_p": [
+    "I am currently interested in various programming languages such as C++ and Python. You might ask why I didn’t mention the others; the simplest answer is time.",
+    "I am also looking forward to learning a new language like Dutch or Swiss German.",
+    "I actively do sports such as swimming, table tennis, chess, and basketball. Among these, swimming always comes first because for me it is very relaxing.",
+    "I would also like to climb mountains or at least go on a hiking or camping trip with my friends.",
+    "Recently, I started reading books written in German. I enjoy improving my language skills, and being able to understand jokes and cultural references makes the process even more rewarding."
+],
+"education_h1": "Education & Achievements",
+"education_p": [
+  "I am currently a first-year student at the Turkish-German University in Istanbul.",
+  "I scored 14 points on the TestDaF exam, proving my German proficiency.",
+  "For three years, I studied at CEAS Anatolian High School, and in my final year, I transferred to a private school to focus on university entrance exam preparation.",
+  "I also have a strong command of English at a high level."
+],
+"career_goals_h1": "Career Goals",
+"career_goals_p": [
+  "I am currently exploring opportunities in the fields of embedded systems, cybersecurity, and data-related technologies.",
+  "At the same time, I am learning these technologies at an introductory level to build my own vision and understanding of the field.",
+  "I also try to make personal predictions about the future of these technologies and how they may shape the industry."
+],
+"skills_h1": "My Skills",
+"header_h1_projects": "Projects",
+"curr_projects_h1": "Current Projects I am working on",
+"curr_projects_p": "I am currently not doing or participating in any big projects, but new projects will be displayed here shortly!",
+"github": "You can find small code snippets and my solutions to various problems on my GitHub.",
+"header_cv_h1": "My CV",
+"cv_id": "Download my CV here",
+"cv_below": " or you can view it down below",
+"cv_pdf": {
+    "en": "pdf/en/MyCV.pdf",
+    "tr": "pdf/tr/MyCV.pdf",
+    "de": "pdf/de/MyCV.pdf"
+},
+"header_contact_h1": "Contact Me!",
+"email_contact": "Email me at ",
+"linkedin_contact": "Visit my ",
+"github_contact": "Check out my "
+}

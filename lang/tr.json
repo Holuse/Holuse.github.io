@@ -1,0 +1,54 @@
+{
+  "welcome": "Web siteme hoş geldin",
+  "about": "Hakkımda",
+  "projects": "Projeler",
+  "cv": "CV",
+  "contact": "İletişim",
+  "about_me_h1": "Hakkımda",
+  "about_me_p": [
+    "Ben Mehmet, 19 yaşındayım. Şu anda İstanbul’da Türk-Alman Üniversitesi’nde birinci sınıfım.",
+    "İngilizce, Almanca ve Türkçeyi akıcı şekilde konuşabiliyorum. Farklı programlama dilleriyle aktif olarak ilgileniyor ve çalışıyorum.",
+    "C, C++, HTML/CSS, JavaScript ve Python dillerine hakimim. Fakat JavaScript’i daha çok web geliştirme için kullandığımı belirtmeliyim.",
+    "Bu, dili bilmediğim anlamına gelmiyor elbette; sadece birden fazla dille uğraştığım için hepsinde basit projeler yapmaya zamanım kalmıyor.",
+    "Ayrıca kendi alanımda fırsatlar da arıyorum elbette. Yeni programlama dilleri öğrenmeyi ayrıca yeni bir yabancı dil öğrenmeyi istiyorum ve kendimi hızlı öğrenen biri olarak görüyorum.",
+    "Tabii bir dilde rahat olmakla onu etkili bir şekilde kullanmak arasında fark var. Bir dili gerçekten öğrenmenin ilk adımı, temelden başlayıp küçük projelerle veya alanında aktif olarak kullanarak pratik yapmaktır."
+  ],
+  "my_interest_h1": "İlgi alanlarım ve hobilerim",
+  "my_interest_p": [
+    "Şu anda C++ ve Python gibi farklı programlama dillerine ilgi duyuyorum. Diğerlerinden neden bahsetmediğimi sorabilirsin; en basit cevabı zaman.",
+    "Ayrıca Hollandaca veya İsviçre Almancası gibi yeni bir dil öğrenmeyi de düşünüyorum.",
+    "Yüzme, masa tenisi, satranç ve basketbol gibi sporlarla aktif olarak ilgileniyorum. Bunların arasında yüzme benim için her zaman bir numara, benim nezhimde herhangi birinin rahatlıkla stres atabileceği bir spor.",
+    "Ayrıca tırmanış yapmak ya da en azından arkadaşlarımla bir doğa yürüyüşü yapmak ya da kamp gezisine gitmek istiyorum.",
+    "Son zamanlarda Almanca kitaplar okumaya başladım. Dil becerilerimi geliştirmek istiyor ve şakaları veya kültürel göndermeleri de anlayabilmek dil öğrenme sürecinde hedeflerimden bir tanesi."
+  ],
+  "education_h1": "Eğitim ve Başarılar",
+  "education_p": [
+    "Şu anda İstanbul’daki Türk-Alman Üniversitesi’nde birinci sınıf öğrencisiyim.",
+    "TestDaF sınavında 14 puan aldım ve bu da Almanca'da B2 seviyesinde olduğumu gösteriyor. Ayrıca yakın zamanda sınava tekrar girip 16 puan veya üstünü almayı hedefliyorum",
+    "Üç yıl boyunca ÇEAŞ Anadolu Lisesi’nde okudum ve son senemde üniversite sınavına hazırlanmak için özel bir okula geçtim.",
+    "Ayrıca ileri düzeyde İngilizce bilgisine sahibim."
+  ],
+  "career_goals_h1": "Kariyer Hedeflerim",
+  "career_goals_p": [
+    "Şu anda gömülü sistemler, siber güvenlik ve veriyle ilgili teknolojiler alanlarındaki fırsatları ve yenilikleri araştırıyorum.",
+    "Aynı zamanda bu teknolojileri temel seviyede öğrenerek kendi vizyonumu ve bu alanlardaki bakış açımı ve vizyonumu geliştiriyorum.",
+    "Ayrıca buö teknolojilerin geleceği ve endüstriyi nasıl şekillendirebileceği konusunda tahmin yapmama ve yöneleceğim alanı seçmeme yardımcı oluyor."
+  ],
+  "skills_h1": "Yeteneklerim",
+  "header_h1_projects": "Projeler",
+  "curr_projects_h1": "Üzerinde çalıştığım güncel projeler",
+  "curr_projects_p": "Şu anda büyük bir proje üzerinde çalışmıyorum veya henüz bir projeye katılmadım, ancak yakında buraya yeni projelerime ilişkin detayları yükleyeceğim",
+  "github": "Küçük kodlarımıı ve çeşitli problemlere ilişkin çözümlerimi GitHub hesabımda bulabilirsin.",
+  "header_cv_h1": "CV",
+  "cv_id": "CV’mi buradan indirebilirsin",
+  "cv_below": " ya da aşağıda görüntüleyebilirsin",
+  "cv_pdf": {
+    "en": "pdf/en/MyCV.pdf",
+    "tr": "pdf/tr/MyCV.pdf",
+    "de": "pdf/de/MyCV.pdf"
+  },
+  "header_contact_h1": "İletişim",
+  "email_contact": "Bana e-posta gönder: ",
+  "linkedin_contact": "LinkedIn profilimi ziyaret et: ",
+  "github_contact": "GitHub hesabıma göz at: "
+}

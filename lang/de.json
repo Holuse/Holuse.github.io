@@ -1,0 +1,54 @@
+{
+  "welcome": "Willkommen auf meiner Webseite",
+  "about": "Über mich",
+  "projects": "Projekte",
+  "cv": "Mein Lebenslauf",
+  "contact": "Kontaktiere mich",
+  "about_me_h1": "Über mich",
+  "about_me_p": [
+    "Mein Name ist Mehmet, und ich bin 19 Jahre alt. Zurzeit bin ich im ersten Studienjahr an der Türkisch-Deutschen Universität in Istanbul.",
+    "Ich spreche fließend Englisch, Deutsch und Türkisch. Außerdem lerne und arbeite ich aktiv mit verschiedenen Programmiersprachen.",
+    "Ich bin mit C, C++, HTML/CSS, JavaScript und Python vertraut. Allerdings sollte ich klarstellen, dass ich JavaScript hauptsächlich für die Webentwicklung verwende.",
+    "Das bedeutet jedoch nicht, dass ich die Sprache nicht kenne; da ich mit mehreren Sprachen arbeite, habe ich nicht die Zeit, in allen grundlegende Projekte zu erstellen.",
+    "Ich suche auch nach Möglichkeiten in meinem Fachgebiet. Ich habe große Freude daran, neue Programmier- sowie natürliche Sprachen zu lernen, und betrachte mich als schnellen Lerner.",
+    "Natürlich ist es etwas anderes, mit einer Sprache vertraut zu sein, als sie effektiv zu nutzen. Der erste Schritt, eine Sprache zu meistern, besteht darin, sie von Grund auf zu lernen und durch kleine Projekte oder aktive Anwendung im eigenen Fachgebiet zu üben."
+  ],
+  "my_interest_h1": "Meine Interessen & Hobbys",
+  "my_interest_p": [
+    "Momentan interessiere ich mich für verschiedene Programmiersprachen wie C++ und Python. Du fragst dich vielleicht, warum ich die anderen nicht erwähnt habe, die einfachste Antwort ist Zeit.",
+    "Ich freue mich auch darauf, eine neue Sprache wie Niederländisch oder Schweizerdeutsch zu lernen.",
+    "Ich betreibe aktiv Sportarten wie Schwimmen, Tischtennis, Schach und Basketball. Unter diesen steht Schwimmen für mich immer an erster Stelle, weil es sehr entspannend ist.",
+    "Ich würde auch gerne Berge besteigen oder zumindest mit meinen Freunden wandern oder zelten gehen.",
+    "Kürzlich habe ich angefangen, Bücher auf Deutsch zu lesen. Es macht mir Spaß, meine Sprachkenntnisse zu verbessern, und die Fähigkeit, Witze und kulturelle Anspielungen zu verstehen, macht den Prozess noch lohnenswerter."
+  ],
+  "education_h1": "Bildung & Leistungen",
+  "education_p": [
+    "Ich bin derzeit Erstsemesterstudent an der Türkisch-Deutschen Universität in Istanbul.",
+    "Ich habe 14 Punkte in der TestDaF-Prüfung erzielt, was meine Deutschkenntnisse bestätigt. Werde ich im kurzer Zukunft die Prüfung wiederholen um 16 oder mehr zu bekommen.",
+    "Drei Jahre lang habe ich das CEAS Anatolische Gymnasium besucht und bin in meinem letzten Jahr auf eine Privatschule gewechselt, um mich auf die Aufnahmeprüfung für die Universität zu konzentrieren.",
+    "Ich verfüge außerdem über sehr gute Englischkenntnisse auf hohem Niveau."
+  ],
+  "career_goals_h1": "Berufliche Ziele",
+  "career_goals_p": [
+    "Zurzeit erkunde ich Möglichkeiten in den Bereichen eingebettete Systeme, Cybersicherheit und datengestützte Technologien.",
+    "Gleichzeitig lerne ich diese Technologien auf einem grundlegenden Niveau, um meine eigene Vision und mein Verständnis des Fachgebiets aufzubauen.",
+    "Ich versuche auch, persönliche Prognosen über die Zukunft dieser Technologien und deren Einfluss auf die Branche zu erstellen."
+  ],
+  "skills_h1": "Meine Fähigkeiten",
+  "header_h1_projects": "Projekte",
+  "curr_projects_h1": "Aktuelle Projekte, an denen ich arbeite",
+  "curr_projects_p": "Zurzeit arbeite ich an keinen großen Projekten, aber neue Projekte werden hier bald angezeigt!",
+  "github": "Auf meinem GitHub findest du kleine Codeausschnitte und meine Lösungen zu verschiedenen Problemen.",
+  "header_cv_h1": "Mein Lebenslauf",
+  "cv_id": "Lade meinen Lebenslauf hier herunter",
+  "cv_below": " oder sieh ihn dir unten an",
+  "cv_pdf": {
+    "en": "pdf/en/MyCV.pdf",
+    "tr": "pdf/tr/MyCV.pdf",
+    "de": "pdf/de/MyCV.pdf"
+  },
+  "header_contact_h1": "Kontaktiere mich!",
+  "email_contact": "Schreib mir eine E-Mail an ",
+  "linkedin_contact": "Besuche mein ",
+  "github_contact": "Schau dir mein "
+}

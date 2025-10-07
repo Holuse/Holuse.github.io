@@ -1,0 +1,284 @@
+body{
+    background-color: #e2e6eb;
+    color: #2e3440;
+    padding-top: 80px;
+    margin: 0;
+}
+.header_class{
+    background-color: #b0beca;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    height: 80px;
+    text-align: center;
+    width: 100%;
+    color:#2b303b;
+    
+}
+#menu_button{
+    position: fixed;
+    left: 20px;
+    top: 18px;
+    width: 45px;
+    height: 45px;
+    cursor: pointer;
+    z-index: 2;
+}
+#side_menu{
+    position: fixed;
+    left: -250px;
+    top: 80px;
+    width: 250px;
+    height: 100%;
+    background-color: #a7b6c2;
+    padding-top: 0px;
+    transition: left 0.3s ease;
+    z-index: 1;
+}
+#side_menu a:hover {
+    background-color: #e5e9f0;
+}
+#side_menu.active {
+    left: 0;
+}
+.side_menu_a {
+    font-size: 1.1em;
+    display: block;
+    color: #2e3440;
+    text-decoration: none;
+    padding: 20px;
+    border-bottom: 3px solid #758088;
+    border-right: 3px solid #758088;
+    border-left: 3px solid #758088;
+    margin: 0;
+    text-align: center;
+}
+#link1{
+    border-top: 3px solid #758088;
+}
+.lang_btn {
+    position: fixed;
+    line-height: 0px;
+    height: 24px;
+    width: 30px;
+    top: 30px;
+    cursor: pointer;
+    z-index: 3;
+    background: none;
+    border: none;
+    padding: 0;
+}
+#lang_btn_1{
+    right: 15px;
+}
+#lang_btn_2{
+    right: 50px;
+}
+#lang_btn_3{
+    right: 85px;
+}
+#about_me h1{
+    margin-left: 55px;
+}
+#about_me p{
+    margin-left: 25px;
+    margin-right: 25px;
+    text-decoration: none;
+    font-size: 20px;
+}
+#about_me h2{
+    margin-left: 55px;
+}
+#github_img{
+    width: 85px;
+    margin-left: 25px;
+}
+#github_img:hover {
+    width: 87px;
+    cursor: pointer;
+}
+.skills-chart {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 0 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    font-family: system-ui, Arial, sans-serif;
+    color: #2e3440;
+}
+.skills-chart h3{
+    margin: 0 0 12px 0;
+    font-size: 1.05rem;
+    color: #3b4252;
+}
+.skill-row{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+.skill-label{
+    width: 160px;               
+    font-size: 0.95rem;
+    color: #2e3440;
+}
+.skill-bar{
+    --bar-height: 20px;
+    position: relative;
+    flex: 1;
+    height: var(--bar-height);
+    background: #d8dee9;
+    border-radius: 999px;
+    overflow: hidden;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.15);
+    border: 2px solid #000000;
+}
+.skill-fill{
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 0%;
+    background: linear-gradient(90deg, #88c0d0, #5e81ac);
+    transition: width 800ms cubic-bezier(.2,.9,.3,1);
+    border-radius: 999px;
+}
+.skill-value{
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 0.8rem;
+    color: #2e3440;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    pointer-events: none;
+    font-weight: 600;
+}
+.skill-bar.filled .skill-fill{
+    width: var(--value, 50%);
+}
+#contact_cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+    padding: 0 15px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact_card {
+    flex: 1 1 220px;
+    max-width: 220px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #dfe5ed;
+    border: 1px solid #aebac7;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    min-height: 180px;
+    transition: transform 0.2s ease;
+}
+
+.contact_card:hover {
+    transform: translateY(-5px);
+}
+.contact_card #img_1 {
+    width: 65px;
+    margin-bottom: 10px;
+}
+.contact_card #img_2 {
+    width: 47px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.contact_card #img_3 {
+    width: 70px;
+    margin-bottom: 10px;
+}
+.contact_card p {
+    font-size: 16px;
+    margin: 0;
+    overflow-wrap: anywhere;
+}
+@media (max-width: 600px) {
+.skills-chart {
+    grid-template-columns: 1fr;
+    padding: 0 12px;
+}
+
+.skill-label {
+    width: 120px;
+}
+.header_class {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90px;
+    background-color: #d8dee9;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+#header_h1{
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+}
+#menu_button {
+    top: 29px;
+    left: 10px;
+    width: 38px;
+    height: 38px;
+}
+.lang_btn {
+    right: 15px;
+    background: none;
+    border: none;
+    width: 28px;
+    height: 20px;
+}
+#lang_btn_1 {
+    right: 20px;
+    top: 5px;
+}
+#lang_btn_2 {
+    right: 20px;
+    top: 35px;
+}
+#lang_btn_3 {
+    right: 20px;
+    top: 65px;
+}
+#side_menu {
+    margin-top: 10px;
+    width: 100%;
+    left: -100%;
+}
+#side_menu.active {
+    margin-top: 10px;
+    left: 0;
+}
+.side_menu_a {
+    font-size: 0.9rem;
+    padding: 15px;
+}
+body {
+    font-size: 0.9em;
+    padding: 0;
+    margin-top: 120px;
+    overflow-x: hidden;
+}
+section {
+    padding: 40px 10px;
+}
+p, h1, h2 {
+    word-wrap: break-word;
+}
+}
+

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Contact</title>
+        <link rel="icon" type="image/jpg" href="smthn.jpg">
+        <link rel="stylesheet" href="styleSheet.css">
+    </head>
+    <body>
+            <button onclick="changeLanguage('en')" class="lang_btn" id="lang_btn_1">
+                <img src="fonts/gb.svg" alt="English">
+            </button>
+            <button onclick="changeLanguage('tr')" class="lang_btn" id="lang_btn_2">
+                <img src="fonts/tr.svg" alt="Türkçe">
+            </button>
+            <button onclick="changeLanguage('de')" class="lang_btn" id="lang_btn_3">
+                <img src="fonts/de.svg" alt="Deutsch">
+            </button>
+            <header class="header_class">
+                <h1 id="header_contact_h1"></h1>
+            </header>
+        <div id="about_me">
+            <div id="contact_cards">
+                <div class="contact_card">
+                    <img src="fonts/square-envelope-solid-full.svg" alt="Email" id="img_1">
+                    <p id="email_contact"></p>
+                </div>
+                <div class="contact_card">
+                    <img src="fonts/linkedin-svgrepo-com.svg" alt="LinkedIn" id="img_2">
+                    <p id="linkedin_contact"></p>
+                </div>
+                <div class="contact_card">
+                    <img src="fonts/square-github-brands-solid-full.svg" alt="GitHub" id="img_3">
+                    <p id="github_contact"></p>
+                </div>
+            </div>
+        </div>
+            <button id="menu_button">
+                <img src="fonts/bars-solid-full.svg" alt="menu">
+            </button>
+        <div id="side_menu">
+            <a href="index.html" class="side_menu_a" id="link1">About me</a>
+            <a href="Projects.html" class="side_menu_a" id="link2">Projects</a>
+            <a href="Cv.html" class="side_menu_a" id="link3">Cv</a>
+            <a href="Contact_me.html" class="side_menu_a" id="link4">Contact me</a>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
